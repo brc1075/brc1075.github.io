@@ -1,10 +1,5 @@
 ﻿# Project 1 Documentation
 
-This file documents my steps and challenges while ________
-
-
-
-
 ## Pre Installation
 
  1. Install Arch ISO on Windows. Choose an HTTP mirror and download the latest x86_64 file (for Windows in my case). Also download the signature file for verification.
